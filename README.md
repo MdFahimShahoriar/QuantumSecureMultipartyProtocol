@@ -1,10 +1,8 @@
-```markdown
+
 # **Secured Quantum Multiparty Communication Protocol for Imperfect Channels Utilizing W-States**
 
 ## **Overview**
 This project presents a secure multiparty communication protocol leveraging the W-state entanglement in quantum communication to overcome challenges in imperfect channels. The protocol ensures secure key distribution, message encryption, and eavesdropping detection. The integration of a third-party mediator ("Charlie") and decoy photons enhances security, making the system more resilient to noise and external attacks.
-
----
 
 ## **Features**
 - **Quantum Key Distribution (QKD):** Secure key sharing using entangled W-states.
@@ -14,7 +12,6 @@ This project presents a secure multiparty communication protocol leveraging the 
 - **Third-Party Monitoring:** Charlie acts as a neutral mediator for system integrity.
 - **Encryption Security:** AES-128 encryption with SHA-256 hashing.
 
----
 
 ## **Workflow**
 
@@ -37,20 +34,18 @@ This project presents a secure multiparty communication protocol leveraging the 
    - Resistance to direct measurement and ancilla particle attacks.
    - Evaluation of protocol performance under noise conditions.
 
----
 
 ## **Project Structure**
 
-```plaintext
+
 📂 SecuredQuantumMultipartyProtocol  
 ├── 📁 circuits/               # Quantum circuits for W-state generation  
 ├── 📁 encryption/             # AES-128 encryption and key generation scripts  
 ├── 📁 simulation_results/     # Noise analysis and security evaluation reports  
 ├── 📁 eavesdropping_detection # Decoy photon detection and QBER assessment  
 └── README.md                  # Project documentation  
-```
 
----
+
 
 ## **Setup and Installation**
 
@@ -58,8 +53,7 @@ This project presents a secure multiparty communication protocol leveraging the 
    ```bash
    git clone https://github.com/YourUsername/SecuredQuantumMultipartyProtocol.git
    cd SecuredQuantumMultipartyProtocol
-   ```
-
+ 
 2. **Install Dependencies:**  
    Ensure you have Python 3.x and the following packages installed:  
    ```bash
