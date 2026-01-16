@@ -118,6 +118,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## **Acknowledgments**
-This project was supported by the Department of Electrical and Computer Engineering at North South University. The IBM Quantum platform was instrumental in simulating the W-state circuits and security assessments.
-```  
+ 
