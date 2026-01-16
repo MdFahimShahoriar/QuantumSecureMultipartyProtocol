@@ -111,8 +111,6 @@ This project presents a secure multiparty communication protocol leveraging the 
 ## **Contributors**
 - Md. Rayhan Kabir Khan  
 - Md. Fahim Shahoriar Titu  
-- M.R.C. Mahdy  
-
 ---
 
 ## **License**
